@@ -1,0 +1,37 @@
+Allowed Radioactivity Calculator Output,,,,,,,,,,
+Mode:,Expected Background,,,,,,,,,
+Access time:,"Thu, 14 Dec 2023 10:16:55 GMT",,,,,,,,,
+,,,,,,,,,,
+Description,CVMR Nickel Inner Cryostat,,,,,,,,,
+Mass,1681.209,kg,,,,,,,,
+Material,"R-167.1.2: Vapor deposited nickel /  / Pacific Northwest National Laboratory (PNNL) /  [U = 0.000501 mBq/kg, Th = 0.00327 mBq/kg]",,,U-238 activity,5.01E-04,mBq/kg,,Th-232 activity,3.27E-03,mBq/kg
+Component,MC-362: Baseline2019 InnerCryostat,,,U-238 efficiency,0.00E+00,counts/ROI/2t/decay,,Th-232 efficiency,2.92E-09,counts/ROI/2t/decay
+Total background,5.06E-04,counts/y/ROI/2t,,U-238 background,0.00E+00,counts/y/ROI/2t,,Th-232 background,5.06E-04,counts/y/ROI/2t
+Category,Minor component (0.01-0.1%),Percentage of total budget,0.0996,%,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Description,CVMR Nickel Outer Cryostat,,,,,,,,,
+Mass,5679.807,kg,,,,,,,,
+Material,"R-167.1.2: Vapor deposited nickel /  / Pacific Northwest National Laboratory (PNNL) /  [U = 0.000501 mBq/kg, Th = 0.00327 mBq/kg]",,,U-238 activity,5.01E-04,mBq/kg,,Th-232 activity,3.27E-03,mBq/kg
+Component,MC-365: Baseline2019 OuterCryostat,,,U-238 efficiency,0.00E+00,counts/ROI/2t/decay,,Th-232 efficiency,1.36E-09,counts/ROI/2t/decay
+Total background,7.94E-04,counts/y/ROI/2t,,U-238 background,0.00E+00,counts/y/ROI/2t,,Th-232 background,7.94E-04,counts/y/ROI/2t
+Category,Intermediate component (0.1-1%),Percentage of total budget,0.156,%,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Description,CFC Inner Cryostat,,,,,,,,,
+Mass,807.437,kg,,,,,,,,
+Material,"R-017.3.3: Carbon fiber and Pyrofil (Cryostat) / Grafil 34-12K R / Vue-des-Alpes (VdA) / Ge counting [U = 0.503 mBq/kg, Th = 0.310 mBq/kg]",,,U-238 activity,5.03E-01,mBq/kg,,Th-232 activity,3.10E-01,mBq/kg
+Component,MC-362: Baseline2019 InnerCryostat,,,U-238 efficiency,0.00E+00,counts/ROI/2t/decay,,Th-232 efficiency,2.92E-09,counts/ROI/2t/decay
+Total background,2.30E-02,counts/y/ROI/2t,,U-238 background,0.00E+00,counts/y/ROI/2t,,Th-232 background,2.30E-02,counts/y/ROI/2t
+Category,Major component (1-10%),Percentage of total budget,4.53,%,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Description,CFC Outer Cryostat,,,,,,,,,
+Mass,2747.562,kg,,,,,,,,
+Material,"R-017.3.3: Carbon fiber and Pyrofil (Cryostat) / Grafil 34-12K R / Vue-des-Alpes (VdA) / Ge counting [U = 0.503 mBq/kg, Th = 0.310 mBq/kg]",,,U-238 activity,5.03E-01,mBq/kg,,Th-232 activity,3.10E-01,mBq/kg
+Component,MC-365: Baseline2019 OuterCryostat,,,U-238 efficiency,0.00E+00,counts/ROI/2t/decay,,Th-232 efficiency,1.36E-09,counts/ROI/2t/decay
+Total background,3.64E-02,counts/y/ROI/2t,,U-238 background,0.00E+00,counts/y/ROI/2t,,Th-232 background,3.64E-02,counts/y/ROI/2t
+Category,Major component (1-10%),Percentage of total budget,7.16,%,,,,,,
